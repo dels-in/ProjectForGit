@@ -1,9 +1,9 @@
 ﻿using System;
 namespace ProjectForGit
 {
-	public class BookStorage
+	public class UsersStorage
 	{
-		public BookStorage()
+		public UsersStorage()
 		{
 		}
 	}
