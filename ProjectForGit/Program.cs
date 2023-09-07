@@ -11,3 +11,5 @@ Console.WriteLine("Hello, World!");
 //изменение для subtask_1
 
 //изменение для subtask_2
+
+//изменение для task_9
