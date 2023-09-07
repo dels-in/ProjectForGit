@@ -7,3 +7,5 @@ Console.WriteLine("Hello, World!");
 //изменение для подзадачи 3
 
 //изменение для таски 2_1_test
+
+//изменение для subtask_1
